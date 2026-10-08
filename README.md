@@ -183,3 +183,9 @@ Fill this in as you explore:
 ## ➡️ Next Stage
 
 **Stage 2: Data Cleaning & Preparation** — fix the issues logged above (remove duplicates, standardize text, correct data types, handle missing values) and prepare the final dataset for analysis.
+
+**Excel Dashboard**
+
+**Goal:** Present the insights in one interactive, easy-to-read view.
+
+<img width="1600" height="861" alt="WhatsApp Image 2026-10-08 at 6 44 52 PM" src="https://github.com/user-attachments/assets/73ee4c6d-8a1b-48a0-82a9-91848c5d479d" />
